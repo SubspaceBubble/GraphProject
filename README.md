@@ -1,5 +1,5 @@
 # GraphProject
-b -> polyline tool\n
+b -> polyline tool<br>
 u -> rectangle tool
 o -> ellipse tool
 v -> select tool
